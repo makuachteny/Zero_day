@@ -1,2 +1,1 @@
-my first readme
-updating my github
+My first readme.md
